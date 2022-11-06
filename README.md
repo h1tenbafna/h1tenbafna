@@ -21,7 +21,6 @@ Hi, I'm Hiten Bafna 🙌, a data enthusiast, a budding Web Developer, and Machin
 
 
 **More about me:**
-- 👨‍💼 Incoming Technology Analyst @Nomura
 - 👨‍💻 Finalist Smart India Hackathon 2022
 - 💻 Ex-MIS @Zepto
 - 🔭 I’m currently a freelance data analyst and web developer.
