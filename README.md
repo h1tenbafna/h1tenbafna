@@ -17,7 +17,6 @@
 Hi, I'm Hiten Bafna 🙌, a data enthusiast, a budding Web Developer, and Machine Learning enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ Feel Free to reach out to me on **hitenbafna2201@gmail.com**
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7aRuBrh8DNTVcze/giphy.gif" />
 
 
 **More about me:**
