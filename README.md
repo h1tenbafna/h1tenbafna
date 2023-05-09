@@ -20,12 +20,12 @@ Hi, I'm Hiten Bafna 🙌, a data enthusiast, a budding Web Developer, and Machin
 
 
 **More about me:**
+- 👨‍💻 SDE Intern at Nomura
 - 👨‍💻 Finalist Smart India Hackathon 2022
 - 💻 Ex-MIS @Zepto
-- 🔭 I’m currently a freelance data analyst and web developer.
-- 👯 I’m looking to collaborate on deep learning projects and hackathons.
-- 🤔 I’m looking for help with my project signAid
-- 👯 Vice Chairperson of Oculus SPIT.
+- 🔭 Curious about Technology in Finance.
+- 👯 I’m looking to collaborate on Machine learning projects and hackathons.
+- 👯 Ex-Vice Chairperson of Oculus S.P.I.T.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 You can reach out to me on any Any of the Social-Media Platform 
 
