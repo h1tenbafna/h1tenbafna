@@ -14,13 +14,13 @@
 
 <br />
 
-Hi, I'm Hiten Bafna 🙌, a data enthusiast, a budding Web Developer, and Machine Learning enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ Feel Free to reach out to me on **hitenbafna2201@gmail.com**
+Hi, I'm Hiten Bafna 🙌, an aspiring financial engineer. I love getting involved Problem Solving.❤✌ Feel Free to reach out to me on **hitenbafna2201@gmail.com**
 
 
 
 
 **More about me:**
-- 👨‍💻 SDE Intern at Nomura
+- 👨‍💻 Senior Software Engineer @ Nomura
 - 👨‍💻 Finalist Smart India Hackathon 2022
 - 💻 Ex-MIS @Zepto
 - 🔭 Curious about Technology in Finance.
