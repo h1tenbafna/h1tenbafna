@@ -17,6 +17,7 @@ Hi, I'm Hiten Bafna 🙌, an aspiring financial engineer. I love getting involve
 
 **More about me:**
 - 👨‍💻 Senior Software Engineer @ Nomura
+- 💻 FRM Level 1 cleared
 - 👨‍💻 Finalist Smart India Hackathon 2022
 - 💻 Ex-MIS @Zepto
 - 🔭 Curious about Technology in Finance.
