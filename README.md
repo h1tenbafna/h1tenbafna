@@ -6,10 +6,6 @@
 <img align="left" alt="Hiten Bafna" style="background-color:white" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlBu_Gia8ZgrUM1GO6xVd5RmieEkgbQKmCAadYpOunCfoY12LlzUfwOFShVg9UhE-PSrw&usqp=CAU"/>
 </a>
 
-<a href="https://www.instagram.com/hiten.bafna/">
-<img align="left" alt="Hiten Bafna" style="background-color:white" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png"/>
-</a>
-
 <br />
 
 <br />
